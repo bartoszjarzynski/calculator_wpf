@@ -1,0 +1,16 @@
+C:\Users\bartj\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\bartj\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\bartj\source\repos\Lab1\Lab1\obj\Debug\MainWindow.g.cs
+C:\Users\bartj\source\repos\Lab1\Lab1\obj\Debug\App.g.cs
+C:\Users\bartj\source\repos\Lab1\Lab1\obj\Debug\Lab1_MarkupCompile.cache
+C:\Users\bartj\source\repos\Lab1\Lab1\obj\Debug\Lab1_MarkupCompile.lref
+C:\Users\bartj\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\bartj\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\bartj\source\repos\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\bartj\source\repos\Lab1\Lab1\obj\Debug\MainWindow.baml
+C:\Users\bartj\source\repos\Lab1\Lab1\obj\Debug\Lab1.g.resources
+C:\Users\bartj\source\repos\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\bartj\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\bartj\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\bartj\source\repos\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\bartj\source\repos\Lab1\Lab1\obj\Debug\Lab1.pdb
